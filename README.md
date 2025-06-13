@@ -1,2 +1,2 @@
-# docs
-All docs here
+# mushroom.github.io
+Official website for Mushroom DAO

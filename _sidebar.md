@@ -1,0 +1,5 @@
+- [Home](/)
+- [White Paper](whitepaper-en.md)
+- [Milestones](milestones-en.md)
+- [GToken](gtoken-en.md)
+- [DAO](dao-en.md)
