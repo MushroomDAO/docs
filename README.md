@@ -1,6 +1,8 @@
 # Mushroom DAO :mushroom:
 Hey, we are launching a Mushroom DAO and cooperation with Mycelium Protocol.
-![Mushroom DAO](./assets/mushroom-dao.png)
+
+<iframe src="mushroom-dao-banner.html" width="400" height="300"></iframe>
+
 [中文](./README_zh.md)
 
 ## What is Mushroom DAO?

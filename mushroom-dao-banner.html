@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MushRoomDAO - Mycelium Protocol</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #0a0a1a; /* 深蓝色背景，模拟地下环境 */
+            overflow: hidden;
+            font-family: 'Inter', sans-serif;
+        }
+        .canvas-container {
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 255, 255, 0.2);
+            background-color: #000;
+        }
+        canvas {
+            display: block;
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="canvas-container">
+    <canvas id="myceliumCanvas"></canvas>
+</div>
+
+<script>
+    // --- 设置画布 ---
+    const canvas = document.getElementById('myceliumCanvas');
+    const ctx = canvas.getContext('2d');
+
+    // 设置画布尺寸
+    const canvasWidth = 800;
+    const canvasHeight = 300;
+    canvas.width = canvasWidth;
+    canvas.height = canvasHeight;
+
+    // --- 网络参数 ---
+    const numNodes = 120; // 节点数量
+    const connectionDistance = 70; // 节点连接的最大距离
+    const nodes = [];
+
+    // --- 节点类 ---
+    class Node {
+        constructor() {
+            // 随机初始化位置
+            this.x = Math.random() * canvas.width;
+            this.y = Math.random() * canvas.height;
+            // 随机初始化速度
+            this.vx = (Math.random() - 0.5) * 0.8;
+            this.vy = (Math.random() - 0.5) * 0.8;
+            // 节点半径
+            this.radius = Math.random() * 1.5 + 0.5;
+        }
+
+        // 更新节点位置
+        update() {
+            this.x += this.vx;
+            this.y += this.vy;
+
+            // 边界检测，让节点在边缘反弹
+            if (this.x < 0 || this.x > canvas.width) {
+                this.vx *= -1;
+            }
+            if (this.y < 0 || this.y > canvas.height) {
+                this.vy *= -1;
+            }
+        }
+
+        // 绘制节点
+        draw() {
+            ctx.beginPath();
+            ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+            ctx.fillStyle = 'rgba(200, 255, 255, 0.9)'; // 亮青色，带点透明
+            ctx.fill();
+        }
+    }
+
+    // --- 初始化 ---
+    function init() {
+        for (let i = 0; i < numNodes; i++) {
+            nodes.push(new Node());
+        }
+    }
+
+    // --- 绘制函数 ---
+    function draw() {
+        // 清除画布并绘制深色背景
+        ctx.fillStyle = '#050510';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        // 遍历所有节点，检查连接
+        for (let i = 0; i < nodes.length; i++) {
+            for (let j = i + 1; j < nodes.length; j++) {
+                const dx = nodes[i].x - nodes[j].x;
+                const dy = nodes[i].y - nodes[j].y;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+
+                // 如果节点距离足够近，则绘制连接线
+                if (distance < connectionDistance) {
+                    ctx.beginPath();
+                    ctx.moveTo(nodes[i].x, nodes[i].y);
+                    ctx.lineTo(nodes[j].x, nodes[j].y);
+                    // 线的透明度根据距离变化，距离越近越不透明
+                    ctx.strokeStyle = `rgba(150, 200, 255, ${1 - distance / connectionDistance})`;
+                    ctx.lineWidth = 0.5;
+                    ctx.stroke();
+                }
+            }
+        }
+        
+        // 绘制所有节点
+        nodes.forEach(node => {
+            node.update();
+            node.draw();
+        });
+
+        // --- 绘制中心文字 ---
+        drawCenterText();
+
+        // 请求下一帧动画
+        requestAnimationFrame(draw);
+    }
+    
+    // 绘制中心文字的函数
+    function drawCenterText() {
+        ctx.font = 'bold 36px Inter';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.95)';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        
+        // 添加文字阴影以产生发光效果
+        ctx.shadowColor = 'rgba(0, 200, 255, 0.7)';
+        ctx.shadowBlur = 15;
+        
+        ctx.fillText('MushRoomDAO', canvas.width / 2, canvas.height / 2);
+
+        // 重置阴影，以免影响其他元素的绘制
+        ctx.shadowBlur = 0;
+    }
+
+    // --- 启动动画 ---
+    init();
+    draw();
+
+</script>
+
+</body>
+</html>
