@@ -10,6 +10,8 @@ Mushroom DAO is a decentralized autonomous organization (DAO), which is research
 We practice the innovations beyond the Defi on blockchain: a **new cooperation network** and some **new cooperation ways**.
 We think blockchain should create new cooperations and **help normals improve their well-being**, not only a new financial investment platform.
 
+Mushroom DAO is a decentralized R&D collective launching new economic paradigms on the blockchain. Our work explores innovations beyond DeFi by cultivating new networks and methods for cooperation. We envision a blockchain that empowers people and improves lives, transcending its role as a mere tool for financial investment.
+
 ### Infrastructure
 We create AirAccount, SuperPaymaster, SDSS(Standard Decentralized Service System, Rain Computing), and more.
 We have AAStar team, who are working on the infrastructure construction.
