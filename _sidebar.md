@@ -3,3 +3,5 @@
 - [Milestones](milestones-en.md)
 - [GToken](gtoken-en.md)
 - [DAO](dao-en.md)
+- [Demo](demo-en.md)
+- [More](more-en.md)
