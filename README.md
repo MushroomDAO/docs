@@ -6,11 +6,8 @@ Hey, we are launching a Mushroom DAO and cooperation with Mycelium Protocol.
 [中文](./README_zh.md)
 
 ## What is Mushroom DAO?
-Mushroom DAO is a decentralized autonomous organization (DAO), which is researching, developing and launching **new economics models** on blockchain.
-We practice the innovations beyond the Defi on blockchain: a **new cooperation network** and some **new cooperation ways**.
-We think blockchain should create new cooperations and **help normals improve their well-being**, not only a new financial investment platform.
 
-Mushroom DAO is a decentralized R&D collective launching new economic paradigms on the blockchain. Our work explores innovations beyond DeFi by cultivating new networks and methods for cooperation. We envision a blockchain that empowers people and improves lives, transcending its role as a mere tool for financial investment.
+Mushroom DAO is a decentralized organization dedicated to building and launching **new economic paradigms** on the blockchain. Our work explores innovations beyond DeFi by **cultivating new networks and methods for cooperation**. We envision a blockchain that **empowers people and improves lives**, transcending its role as a mere tool for financial speculation.
 
 ### Infrastructure
 We create AirAccount, SuperPaymaster, SDSS(Standard Decentralized Service System, Rain Computing), and more.
@@ -18,8 +15,9 @@ We have AAStar team, who are working on the infrastructure construction.
 
 
 ### Protocol
-We create jLab years ago, researching on HyperCapital after the individual value research and more.
+We create jLab years ago, researching on **HyperCapital** theoretically after the individual value research and more.
 We learn from the Nature and Mycelium a lot, trying to practice the innovations guided by the Nature.
+So, we initiate the **Mycelium Protocol**, and run the Mycelium Protocol.
 
 ![relations-in-nature](./protocol/relation1.png)
 
