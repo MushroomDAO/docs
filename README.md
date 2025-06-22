@@ -1,5 +1,5 @@
 # Mushroom DAO :mushroom:
-Hey, we are launching a Mushroom DAO and cooperation with Mycelium Protocol.
+Hey, this is Mushroom DAO on Mycelium Protocol.
 
 <iframe src="mushroom-dao-banner.html" width="400" height="300"></iframe>
 
@@ -49,8 +49,10 @@ Now we need researchers, developers, designers, and more.
 
 But, read the [White Paper](./whitepaper-en.md) first.
 
-## What we can do?
+## What I can do?
 Create some cooperation innovations following the Nature's way like Mycelium.
+learn more about the Mycelium Protocol and the Mushroom DAO.
+Subscribe the [Mushroom Substack](https://mushroomdao.substack.com/)
 
 ## What we can get?
 Create the value and get return for your contribution.
