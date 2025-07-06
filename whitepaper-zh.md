@@ -1,6 +1,6 @@
 # Mycelium Protocol Lite Whitepaper V0.1
 A brief introduction to the Mycelium Protocol.
-Answer the question: how to avoid platform monopoly and social capital exploitation.
+Answer the question: how to avoid platform monopoly and social capital exploitation with DApps.
 ## 0. 目录 (Table of Contents)
 - [Mycelium Protocol Lite Whitepaper V0.1](#mycelium-protocol-lite-whitepaper-v01)
   - [0. 目录 (Table of Contents)](#0-目录-table-of-contents)
@@ -93,3 +93,25 @@ DAO 结构：MushroomDAO 的法律结构、职责和权力范围。
 ## 联系我们
 It is hard to describe the Mycelium Protocol in a few pages, so we need to break it down into several parts.
 We will enhance the detail part in the future. For more interesting, please touch us in [GitHub](https://github.com/MushroomDAO/MyceliumProtocol) repository.
+
+好的，这篇文章的核心要点是为加密货币项目白皮书提出了一个包含 10 个关键部分的标准模板。以下是这 10 个部分的提炼：
+
+1.  **执行摘要 (Executive Summary):** 这是白皮书的“电梯演讲”，需要用简洁的语言快速抓住读者的注意力，清晰地概述项目目标、解决的问题以及解决方案。
+
+2.  **公司与团队概述 (Company and Team Overview):** 详细介绍项目背后的公司和核心团队成员。重点突出团队在相关领域的经验、专业知识和资历，以建立信任感和可信度。
+
+3.  **市场分析 (Market Analysis):** 对目标市场进行深入分析，包括市场规模、增长潜力和当前痛点。证明你的项目有一个真实且有价值的市场需求。
+
+4.  **产品描述与技术 (Product Description and Technology):** 这是白皮书的核心。详细阐述你的产品、服务或平台将如何运作，以及使用了什么技术（如区块链、智能合约等）。需要让技术和非技术背景的读者都能理解。
+
+5.  **路线图与未来愿景 (Roadmap and Future Vision):** 清晰地展示项目的发展规划和里程碑，从短期目标到长期愿景。这向投资者表明你有一个明确、可执行的计划。
+
+6.  **代币经济学与分配 (Tokenomics and Distribution):** 关键部分。详细说明代币的用途、总供应量、分配计划（如何分配给团队、投资者、社区等）以及其在生态系统中的经济模型。这是投资者评估项目价值的核心依据。
+
+7.  **法律考量 (Legal Considerations):** 阐述项目的法律合规性、风险披露以及相关的免责声明。解决潜在的法律和监管问题，保护项目方和投资者。
+
+8.  **竞争格局 (Competitive Landscape):** 分析市场上的主要竞争对手，并明确指出你的项目相比于它们有何独特的优势和创新之处。
+
+9.  **商业模式与盈利 (Business Model and Monetization):** 清晰说明项目将如何创造收入和维持长期运营。一个可持续的商业模式是项目成功的关键。
+
+10. **结论与行动号召 (Conclusion and Call to Action):** 总结白皮书的关键亮点，重申项目的价值主张，并明确引导读者进行下一步操作，例如访问网站、加入社区或参与代币销售。
