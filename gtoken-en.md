@@ -1,5 +1,5 @@
 # GToken English
-
+[中文版本](./gtoken-zh.md)
 ## 1. Introduction
 
 ## 2. Features

@@ -1,4 +1,5 @@
 # MushroomDAO 中文文档
+[English Version](./dao-en.md)
 ## 1. 介绍
 MushroomDAO 是一个通过 Mycelium 协议共建者组织，通过构建自己的子协议来实践和探索的 Decentralized Autonomous Organization。
 MushroomDAO 的使命是探索和实践 Mycelium 协议，共建人类数字未来。

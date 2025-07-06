@@ -1,5 +1,5 @@
 # GToken 中文文档
-
+[English Version](./gtoken-en.md)
 ## 1. 介绍
 
 ## 2. 功能

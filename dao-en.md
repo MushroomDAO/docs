@@ -1,4 +1,5 @@
 # MushroomDAO English Document
+[中文版本](./dao-cn.md)
 ## 1. Introduction
 MushroomDAO is a Mycelium Protocol cooperator, Infra provider, and Application incubator.
 MushroomDAO is a Decentralized Autonomous Organization, which is built by Mycelium Protocol cooperator, Infra provider, and Application incubator.
@@ -12,7 +13,7 @@ MushroomDAO's structure is:
 - Protocol incubator: Process-driven rapid innovation incubation based on OpenNest (protocol).
 - Community governance meeting: Participated by community members holding GToken, discussing the development direction and governance strategies of the protocol, gradually moving towards decentralization.
 
-## 3. DAO 能力
+## 3. DAO Ability
 1. Community digital support ability: Integrating the entire Ethereum account system and basic capabilities such as Gas Sponsor, distributed computing nodes, content distribution, and storage to serve the community through COS72.
 2. Community innovation incubation ability: Through OpenNest (protocol) and collaboration with all communities, organizations, and individuals, process-driven rapid innovation incubation is provided to help innovators obtain funding and resources.
 3. Community localization ability: Through exploring Web3 applications such as Chiang Mai Connect and Arcadia, the local community is helped to prosper economically and culturally.
