@@ -1,7 +1,6 @@
 # MushroomDAO English Document
 [中文版本](dao-zh.md)
 ## 1. Introduction
-MushroomDAO is a Mycelium Protocol cooperator, Infra provider, and Application incubator.
 MushroomDAO is a Decentralized Autonomous Organization, which is built by Mycelium Protocol cooperator, Infra provider, and Application incubator.
 MushroomDAO's mission is to explore and practice Mycelium Protocol, and build a digital future for humanity.
 MushroomDAO's vision is to provide components and community support (such as incubation and funding) to help innovators build and operate their own collaboration networks, thereby strengthening the overall protocol network.

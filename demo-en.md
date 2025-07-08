@@ -1,5 +1,5 @@
 # Demo English
-[中文版本](./demo-cn.md)
+[中文版本](demo-zh.md)
 Through Demo to show how Mycelium Protocol can help to build innovation collaboration, improve the welfare of ordinary people, and have a digital future.
 
 TODO: a video demo here.
