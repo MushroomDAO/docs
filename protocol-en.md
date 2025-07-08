@@ -1,11 +1,12 @@
 # Mycelium Protocol English Document
+[中文版本](protocol-zh.md)
 Mycelium is a abstract protocol, it provides a generic framework, without permission, so that any person and organization can freely build their own applications.
 Therefore, it includes three parts:
 - Protocol: Protocol, including the definition of Mycelium protocol, and some supporting tools and tools for creating your own sub-protocols.
 - Infrastructure: Infrastructure, including the implementation of Mycelium protocol, and some basic tools and libraries.
 - Framework: Framework, including a generic framework based on infrastructure, combining different application fields, to help you quickly build your own Web3 applications.
 
-## Mycelium 协议/Protocol
+## Mycelium Protocol
 Mycelium can also be called the fungal network collaboration protocol, it borrows the collaborative way of fungi between 4.5 billion years of accumulation and iteration, through research and abstraction, some collaborative patterns are obtained, and a generic framework is provided based on the protocol, so that any person and organization can freely build their own innovative collaboration and innovative applications.
 
 ### HyperCapital/Economic Model
@@ -29,7 +30,7 @@ OpenCards Protocol is a sub-protocol based on the Mycelium protocol, it is a dec
 ### OpenNest/Incubator/Manufacturing Workshop
 OpenNest Protocol is a sub-protocol based on the Mycelium protocol, it is a decentralized incubator protocol, through the Mycelium protocol framework, it can quickly incubate a decentralized incubator application.
 
-### Summary
+## Summary
 If you think these concepts are abstract, please refer to the abstract structure of a car: power system, transmission system, chassis system, body system, and electronic system, which can be seen as five modules cooperating: generating power -> transmitting power -> supporting and driving -> providing space -> intelligent control.
 <img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507061008506.png"/>
 

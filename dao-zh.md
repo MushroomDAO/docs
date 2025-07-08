@@ -19,12 +19,10 @@ MushroomDAO 的结构是：
 3. 社区本地化能力：通过 探索 Chiang Mai Connect、Arcadia 等 Web3 应用创新，帮助本地社区，繁荣当地经济和文化。
 
 ## 4. 收入来源
-1. 协议 Token 发行：一次性销售 GToken 的收入，以及 mPNTs 的发行收入。收入类型为 BitCoin、ETH，mPNTs 和其他有价 Token。
-2. 核心协议收入：Mycelium Protocol 为所有人提供公共网络来协作和定义、分配、交换价值，任何人可以通过发行自己的积分来定义自己的价值，并通过核心协议（目前基于 Uniswap V4）来交换和分配价值，需要缴纳一定协议费率，收入类型为 mPNTs。
-3. 国库借出 GToken 以供其他人参与某个项目投资权的利息收入，并非出借了协议全部治理权，而是只借出了对某个项目的投资权利。这类投资一般根据具体项目，分为三期，具体参考[OpenNest](./paper/OpenNest.pdf)。
-4. 协议应用层：普通用户使用协议提供的公共物品，在免费额度之外的额度和服务能力，需要支付 mPNTs 的支付和使用，例如 mPNTs 支付和使用 AirAccount 的免 Gas 卡、遗嘱执行功能等，收入类型为 mPNTs。
-5. 协议基础设施层：开发者、应用方需要使用协议的基础 如发行免 Gas 卡产生的收入，SDSS 的计算和存储费用，Doris 协议的 Pin 和存储空间等，收入类型为 mPNTs。
-6. 除此之外，我们会基于 Vault 协议来作为天使方为协议相关项目提供 协议技术支持、grant 和一定额度的投资，此类投资有一定比例的 mPNTs 作为投资回报，具体比例和投资额度由 Vault 协议来决定，有一定的项目失败风险。
+
+- Token Sell
+- Protocol fee
+- Protocol investment
 
 ## 5. 联系我们
 [Github](https://github.com/orgs/MushroomDAO/projects/1)
