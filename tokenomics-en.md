@@ -1,7 +1,7 @@
 # Tokenomics English Version
 [中文版本](tokenomics-zh.md)
 
-For the sake of Bitcoin, the community governance token GToken is only issued 21 million, with a fixed total supply.
+Tribute to Bitcoin, the community governance token GToken is issued with only 21 million units, with a fixed total supply.
 GToken is a community governance token that includes two core rights: community governance rights and community protocol participation and usage rights.
 GToken holders are considered protocol members, and according to the protocol, they have the corresponding governance rights and community protocol product participation and advanced feature usage rights.
 mPNTs is a community utility token, as the basic payment unit for users to use all protocol products of the community, following the OpenPNTs protocol, and is the utility token of the protocol.
