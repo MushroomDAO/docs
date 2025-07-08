@@ -1,5 +1,5 @@
 # MushroomDAO 中文文档
-[English Version](./dao-en.md)
+[English Version](dao-en.md)
 ## 1. 介绍
 MushroomDAO 是一个通过 Mycelium 协议共建者组织，通过构建自己的子协议来实践和探索的 Decentralized Autonomous Organization。
 MushroomDAO 的使命是探索和实践 Mycelium 协议，共建人类数字未来。
@@ -9,8 +9,8 @@ We are Protocol cooperator, Infra provider, and Application incubator.
 MushroomDAO 的结构是：
 - 协议启动者：HyperCapital 组织，提供启动资金（两年内基础资金）和孵化器项目补充投资和未来商业落地协作。
 - 协议 Vault：由启动 DAO 的组织初始化，通过协议收入持续获得资金补充，为社区其他组织和项目提供金库支持。
-- 协议组件建设者：开放性为协议组件和互补组件的开源组织提供 grant，AAStar 是早期组件建设者组织之一。
-- 协议孵化器：OpenNest（协议）的流程化快速创新孵化。
+- 协议组件建设者：开放性的为协议组件和互补组件的开源组织提供 grant，AAStar 是早期组件建设者组织之一。
+- 协议孵化器：OpenNest（协议）的流程化快速创新孵化，孵化会在里程碑第三阶段展开。
 - 社区治理会议：由持有 GToken 的社区成员参与，讨论协议的发展方向和治理策略，一步步走向去中心化。
 
 ## 3. DAO 能力

@@ -1,4 +1,4 @@
-# GToken English
+# GToken English Version
 [中文版本](./gtoken-zh.md)
 ## 1. Introduction
 

@@ -1,5 +1,5 @@
 # MushroomDAO English Document
-[中文版本](./dao-cn.md)
+[中文版本](dao-cn.md)
 ## 1. Introduction
 MushroomDAO is a Mycelium Protocol cooperator, Infra provider, and Application incubator.
 MushroomDAO is a Decentralized Autonomous Organization, which is built by Mycelium Protocol cooperator, Infra provider, and Application incubator.
