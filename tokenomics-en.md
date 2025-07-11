@@ -29,9 +29,9 @@ Total: 21 million
 #### Community Launching Team
 - 20% (4.2 million) allocated to HyperCapital organization, with a 4-year linear unlock, unlocking 5% annually.
 - As a 'strategic partner' and 'ecosystem builder', HyperCapital provides critical resources and business support for the protocol's cold start and commits to long-term deep involvement in ecosystem building.
-- HyperCapital is the community and protocol's launching team, as well as the long-term 利益绑定者，作为核心伙伴，会持续帮助协议落地商业协作部分。
+- HyperCapital is the community and protocol's launching team, as well as the long-term interest binding partner, as a core partner, will continue to help the protocol land the business collaboration part.
 
-#### 协议研发和运营团队
+#### Team
 - 15% (3.15 million) allocated to the development and operation team members and future employees: This portion of the token has a 4-year linear unlock period to ensure the long-term interest binding of the team and the protocol.
 
 #### CMUBA & CMUBRA
@@ -70,7 +70,7 @@ mPNTs holders, as the basic unit for paying for community services and service p
 
 **Delegation Right**：If you don't want to participate in every vote, you can delegate your voting rights to more active and professional representatives in the community (Delegates), who will exercise your voting rights on your behalf. This is a form of liquid democracy.
 
-###  生态优先参与权
+### Community Protocol Participation and Usage Rights
 - **Core Feature Access Right**：
 Many core protocols and DApps in the community ecosystem require users to hold or stake a certain amount of GToken to access their advanced features or specific services. This is both the core utility of GToken holders and a way to support the continuous development of the protocol.
 
