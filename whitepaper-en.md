@@ -56,7 +56,7 @@ graph TD
     E --> F[Product Iteration]
     F --> A
 ```
-<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141104215.png"/>
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141104215.png" width="60%"/>
 
 **Timeline:** 2025-2026 (Parallel execution)  
 **Target:** Self-sustaining micro-economic ecosystem
