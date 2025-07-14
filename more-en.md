@@ -1,12 +1,12 @@
 # More
 [中文](more-zh.md)
 - Full Whitepaper
-- Slack Channel
+- [Slack Channel]()
 - Telegram Channel
 - Twitter
 - Discord
 - Github
-- Medium
+- Me
 - Website
 - Blog
 - Documentation
