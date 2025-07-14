@@ -3,7 +3,7 @@ Hey, this is Mushroom DAO on Mycelium Protocol.
 
 <iframe src="mushroom-dao-banner.html" width="400" height="300"></iframe>
 
-[中文](./README_zh.md)
+[中文](README_zh.md)
 
 ## What is Mushroom DAO?
 
@@ -11,7 +11,7 @@ Mushroom DAO is a decentralized organization dedicated to building and launching
 
 ### Infrastructure
 We create AirAccount, SuperPaymaster, SDSS(Standard Decentralized Service System, Rain Computing), and more.
-We have AAStar team, who are working on the infrastructure construction.
+We have AAStar team and CMUBA, who are working on the infrastructure construction and related applications.
 
 
 ### Protocol
