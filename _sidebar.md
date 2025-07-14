@@ -1,6 +1,6 @@
 - [Home](/)
 - [White Paper](whitepaper-en.md)
-- [Milestones](milestones-en.md)
+- [Roadmap](roadmap.html)
 - [Tokenomics](tokenomics-en.md)
 - [DAO](dao-en.md)
 - [Demo](demo-en.md)
