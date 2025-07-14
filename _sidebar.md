@@ -1,7 +1,7 @@
 - [Home](/)
 - [White Paper](whitepaper-en.md)
 - [Milestones](milestones-en.md)
-- [GToken](gtoken-en.md)
+- [Tokenomics](tokenomics-en.md)
 - [DAO](dao-en.md)
 - [Demo](demo-en.md)
 - [More](more-en.md)
