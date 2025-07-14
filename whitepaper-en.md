@@ -207,9 +207,9 @@ This is a story about choice: You can live differently, work differently, and cr
 
 ---
 
-**Contact:** jason@mycelium.network  
-**GitHub:** https://github.com/mycelium-protocol  
-**Community:** https://community.mycelium.network
+**Contact:** @jasonjiao (telegram)  
+**GitHub:** https://github.com/mushroomdao  
+**Community:** https://x.com/mushroomdao1984 (twitter)
 
 ---
 *License: GNU General Public License v3.0* 
