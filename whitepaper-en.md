@@ -41,6 +41,7 @@ graph LR
     B --> C[Banking & Regulation]
     C --> D[Commercial Scale]
 ```
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141104766.png"/>
 
 **Timeline:** 2025-2028  
 **Target:** Scalable application, compliant operation
@@ -55,6 +56,7 @@ graph TD
     E --> F[Product Iteration]
     F --> A
 ```
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141104215.png"/>
 
 **Timeline:** 2025-2026 (Parallel execution)  
 **Target:** Self-sustaining micro-economic ecosystem
@@ -147,6 +149,7 @@ graph LR
     C --> D[Community]
     D --> A
 ```
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141105558.png"/>
 
 ### 5.4 Six Key Metrics (Dashboard)
 1. **Tribes:** Number of communities

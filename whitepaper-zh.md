@@ -2,7 +2,7 @@
 **Author:** Jason Jiao  
 **Date:** January 2025  
 **Version:** 0.2.0
-
+[English Version](./whitepaper-en.md)
 ---
 
 ## Abstract
@@ -41,6 +41,7 @@ graph LR
     B --> C[Banking & Regulation]
     C --> D[Commercial Scale]
 ```
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141104766.png"/>
 
 **Timeline:** 2025-2028  
 **Target:** 规模化应用，合规运营
@@ -55,6 +56,7 @@ graph TD
     E --> F[Product Iteration]
     F --> A
 ```
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141104215.png"/>
 
 **Timeline:** 2025-2026 (并行进行)  
 **Target:** 自维持微观经济生态
@@ -147,7 +149,7 @@ graph LR
     C --> D[社区Community]
     D --> A
 ```
-
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141105558.png"/>
 ### 5.4 六大关键指标 (Dashboard)
 1. **Tribes:** 社区数量
 2. **Mushrooms:** 注册成员数
