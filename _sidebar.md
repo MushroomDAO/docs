@@ -1,6 +1,7 @@
 - [Home](/)
 - [White Paper](whitepaper-en.md)
 - [Roadmap](roadmap.html)
+- [Protocol](protocol-en.md)
 - [Tokenomics](tokenomics-en.md)
 - [DAO](dao-en.md)
 - [Demo](demo-en.md)
