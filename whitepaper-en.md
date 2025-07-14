@@ -117,7 +117,7 @@ Provide basic income for individuals through protocol networks, aiming to achiev
 
 ### Dual-Token System
 - **GToken (Governance Token):** Network governance and long-term value capture
-- **mPNTs (Utility Token):** In-network transactions and service payments
+- **PNTs (Utility Token):** In-network transactions and service payments
 - **Community Points:** Independently issued point systems by communities
 
 ### Token Distribution & Circulation
