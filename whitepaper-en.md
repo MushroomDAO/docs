@@ -2,7 +2,7 @@
 **Author:** Jason Jiao  
 **Date:** January 2025  
 **Version:** 0.2.0
-
+[中文版](./whitepaper-zh.md)
 ---
 
 ## Abstract
