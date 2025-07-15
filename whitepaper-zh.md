@@ -150,6 +150,8 @@ graph LR
     D --> A
 ```
 <img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202507141105558.png"/>
+
+
 ### 5.4 六大关键指标 (Dashboard)
 1. **Tribes:** 社区数量
 2. **Mushrooms:** 注册成员数
