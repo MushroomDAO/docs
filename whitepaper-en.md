@@ -109,6 +109,19 @@ HyperCapital redefines value calculation: **Not only capital owners can particip
 5. **Gaming & Mining:** "Meme Economy" - Perpetual gaming mining revenue
 6. **Ecosystem Products:** COS72, Arcadia, zuCoffee, HexagonWarrior
 
+### Commercial Company — Services & Sustainable Revenue
+
+The **唯一商业公司 (unique commercial company)** is the primary revenue engine for the ecosystem. It provides:
+
+- **Free tier** (digital public good): One-click website builder for any small merchant or community, hosted on `forest.mushroom.cv` subdomains — permanently free with honest limits
+- **Pro services** (paid): Custom domains, unlimited updates, booking calendar, WhatsApp integration — ฿299/month
+- **Business services** (paid): Multi-site management, white-label, API access — ฿999/month
+- **Value-added services**: Decentralized CRM (your data, your private key), AI marketing engine, loyalty points + real purchase verification, SEO & content publishing
+
+**Digital sovereignty is the core differentiator:** all data is encrypted with your own key, exportable anytime, self-hostable from open-source code. You are never locked in.
+
+→ See full [Services & Revenue Model](services-en.md) for pricing, features, and self-hosting guide.
+
 ### Basic Income (BI) Vision
 Provide basic income for individuals through protocol networks, aiming to achieve:
 - **Everyone has blockchain accounts** to improve well-being
