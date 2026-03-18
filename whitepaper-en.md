@@ -19,16 +19,38 @@ Inspired by 4.5+ billion years of fungal cooperative innovation, we propose two 
 
 ---
 
+## Origin: Three Questions
+
+**Who are we?**
+AAStar is an Ethereum open-source building group. Originating from the AAStar sub-group under Plancker^, it inherited the Plancker spirit and began operating independently in November 2024.
+
+**Where do we come from?**
+Following a conversation with Vitalik at Zuzalu in April 2023, the AAStar (Account Abstraction) group was established under Plancker^, focusing on AA infrastructure and community tooling. We follow a principled path: **Problem → Academic Research → Digital Public Goods → Validation.**
+
+**Where are we going?**
+By advocating and exploring the Mycelium open protocol, we aim to empower communities and free individuals — addressing motivational challenges in the blockchain space and enabling greater innovation and collaboration.
+
+> *"Organizations that foster the exploration of life's meaning are what I define as: Community."*
+
+---
+
 ## 1. Vision & Mission
 
 ### Vision
-Redefine value and distribution through protocol networks, enabling ordinary people to create their own collaboration and emergence.
+Empowering **Extreme Individuals** to thrive within diverse **Loose Communities** connected by the Mycelium Protocol — reclaiming their imagination, creativity, and emotions to transcend alienation and truly become themselves.
 
-### Mission  
-Provide everyone with a decentralized digital economy participation method, whether through institutional cooperation or micro-circulation self-organization.
+### Mission
+To realize our vision by consistently building **Digital Public Goods**, fostering a **Sustainable Mycelial Network** for collaboration, and exploring innovation through **Prediction Markets**.
+
+### Three Pillars
+- **Digital Public Goods** — Open-source, self-sovereign tools for individuals and communities to host, build, and evolve independently
+- **Sustainable Collaborative Network** — Protocol-level incentives that align contributors, communities, and builders
+- **Prediction-based Incubation** — Market-driven validation of new ideas and protocols within the ecosystem
 
 ### Core Philosophy
 This is not a revolutionary manifesto or disruptive attempt, but an exploration of the future: **You can choose differently.**
+
+We believe the future will be defined by a new organizational paradigm: the emergence of **Loose Communities** and **Extreme Individuals**. Beyond traditional commercial entities, these communities prioritize shared consensus and collective goals. They are fan guilds, clubs, and collaborative hubs where people "figure it out together."
 
 ---
 

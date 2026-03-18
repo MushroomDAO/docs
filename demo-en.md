@@ -65,6 +65,17 @@ Decentralized gas sponsorship — merchants pay, users don't.
 | Permissionless | Anyone can become a paymaster node |
 | Repo | [github.com/aastarcommunity/SuperPaymaster](https://github.com/aastarcommunity/SuperPaymaster) |
 
+### Sign90
+Aggregate signature security — smart account core module with guardian recovery, session keys, and EIP-2 high-s rejection.
+
+| Feature | Detail |
+|---|---|
+| Standard | ERC-4337 + BLS aggregate signatures |
+| Recovery | Guardian multi-party social recovery |
+| Session Keys | Temporary delegation without exposing main key |
+| Status | M5 complete (Sepolia E2E verified) · M6 gas optimization in progress |
+| Repo | [github.com/aastarcommunity/airaccount-contract](https://github.com/aastarcommunity/airaccount-contract) |
+
 ### SDSS (Rain Computing)
 Decentralized computing and storage network powering off-chain AI and data layers.
 
@@ -114,6 +125,26 @@ Community experiment born at Zuzalu — demonstrating the micro-circulation mode
 Local information discovery protocol for the Chiang Mai community — events, merchants, collaboration.
 
 [github.com/CMUBA/ChiangMaiConnect](https://github.com/CMUBA/ChiangMaiConnect)
+
+---
+
+## Development Progress
+
+*Auto-synced from live kanban at [mushroom.cv](https://www.mushroom.cv/). Last updated: 2026-03-17.*
+
+| Component | Task | Progress | Status |
+|---|---|:---:|---|
+| Sign90 Smart Account Core | TASK-10 | **85%** | M5 complete · M6 gas optimization started |
+| SuperPaymaster Paper (AOA/ERC-4337) | TASK-31 | **90%** | BRA cover letter + BibTeX done, ready to submit |
+| CommunityFi Paper (Reputation Credit) | TASK-32 | **85%** | JBBA citations updated, submission package ready |
+| AirAccount Invisible Account | TASK-12 | **70%** | v0.16.7 TX history · Chrome plugin integration next |
+| SuperPaymaster Contract | TASK-4 | **40%** | UUPS v4.0.0 Sepolia deployed · Credit system next |
+| Phase 1 Genesis Launch (Meta) | TASK-23 | **50%** | MyShop complete · GToken launch pending |
+| AuraAI Courses | TASK-35 | **35%** | 5-course framework established |
+| Cos72 Core Modules | TASK-13 | **10%** | MyTask / MyShop / MyVote — Phase 2 target |
+| Spores SDK | TASK-19 | **5%** | Design phase |
+
+→ [View full live kanban ↗](https://www.mushroom.cv/)
 
 ---
 

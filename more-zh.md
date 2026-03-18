@@ -47,6 +47,18 @@
 | [自然公共物品](https://docs.google.com/presentation/d/1hxwEK2gy9XI9J0WQkmXqwLx2-jzUyt-EU14B6TczgSU/edit#slide=id.p) | 愿景演讲 —— Mycelium 协议的哲学基础 |
 | [孢子计划](https://docs.google.com/presentation/d/11Ig3LySW2-K1R44nEFzHJgqhLqPNsVI2ORo330YHUn4/edit#slide=id.p) | 市场策略 —— 通过孢子网络实现社区增长 |
 | [什么是 Mycelium 协议](https://hackmd.io/@jhfnetboy/HJ4UoYJc0) | HackMD 上的技术介绍 |
+| [Be Yourself YoungMan](https://docs.google.com/presentation/d/1LYWK1BETRRygChza3NCF7nVxRsjR_ymyagyrY9jL3gU/edit?usp=sharing) | 社区哲学 —— 个体性、自由与自我表达 |
+| [开源赋能个体](https://docs.google.com/presentation/d/1T2pAuX2ZRakLq0JI6HT5Kn_NW31DVGGP9p-SrlOzqLs/edit?usp=sharing) | 开源与 Web3 如何将权力还给个体 |
+| [Mycelium 快速介绍](https://docs.google.com/presentation/d/1XLEl4sd5Qe9kKMrUwSby7Dk-9G-fw3pqJWhXmDosv4k/edit?usp=sharing) | 10 分钟了解 Mycelium 协议生态 |
+| [Cos72 + Sign90](https://docs.google.com/presentation/d/1dc6Rygjw0qQUAohB7pUq-FNsiXox6P0cUhm28qELEBs/edit?usp=sharing) | 社区 OS 与聚合签名安全深度解析 |
+
+## 研究资料
+
+| 资源 | 说明 |
+|---|---|
+| [以太坊 Gas 机制](https://docs.google.com/presentation/d/1nzTe40Img2E8iinYk-Fk3IXLqC_TXidMys5Mec0R2og/edit?usp=sharing) | 以太坊 Gas 机制技术演讲 |
+| [研究文档列表](https://docs.google.com/spreadsheets/d/10ec6OyzmefxSMJUdjL-BF1TQtZ-ylZ-vGl4MF9PJ4jc/edit?usp=sharing) | AAStar 全部研究文档索引 |
+| [演示文稿索引](https://docs.google.com/spreadsheets/d/1SIL3_iLN61b3IwQGW91eY7hKfH4-16QQsTy3b-eBVJs/edit?usp=sharing) | 所有演讲幻灯片汇总索引 |
 
 ---
 
