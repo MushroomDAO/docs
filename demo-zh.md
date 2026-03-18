@@ -1,41 +1,127 @@
-# Demo 中文文档
-[English Version](./demo-en.md)
+# Demo — Mycelium 协议如何运作
+[English Version](demo-en.md)
 
-通过 Demo 来展示 Mycelium 协议用什么方式来构建创新协作，提升普通人福祉，拥有数字未来。
+> 从零开始，在手机上 2 分钟内创建 Web3 钱包并完成商户积分闭环。
 
-TODO: a video demo here.
+---
 
-## Infrastructure
+## 用户旅程：在本地咖啡馆消费
+
+### 第一步 — 创建 AirAccount（无需助记词）
+新用户打开应用，用手机内置的 Passkey（Face ID / 指纹）完成注册。
+无密码，无 12 位助记词。账户是一个智能合约钱包（ERC-4337）。
+
+```
+用户：[刷脸] → AirAccount 创建完成 → 分配钱包地址
+耗时：约 20 秒
+```
+
+### 第二步 — 扫码支付
+在咖啡馆，用户点击「支付」并扫描商户的二维码。
+SuperPaymaster 代付 Gas 费 —— 用户支付 **零 ETH Gas**。
+
+```
+用户：扫描二维码 → 确认 ฿85 → 交易发送
+Gas：由 SuperPaymaster 赞助（向商户收取 10% 协议费）
+链：以太坊 L2（Optimism / Base）
+耗时：约 3 秒
+```
+
+### 第三步 — 自动铸造积分
+Mycelium 协议自动向用户的 AirAccount 铸造社区积分（mPNTs）。
+积分可在联盟网络内任意商户兑换，无锁定期，无过期日。
+
+```
+用户：收到 85 mPNTs → 余额在应用中可见
+商户：看到结算交易 → 积分负债记录上链
+```
+
+### 第四步 — 兑换或转赠积分
+用户可在任意合作商户兑换积分，赠送给朋友，或质押获得治理权。
+无中心化平台控制积分。没有 LINE，没有 Grab，没有中间商。
+
+---
+
+## 基础设施组件
+
 ### AirAccount
-[AirAccount](https://github.com/aastarcommunity/AirAccount)
+零摩擦上手的智能合约钱包。
+
+| 功能 | 说明 |
+|---|---|
+| 认证方式 | Passkey（Face ID / 指纹） |
+| 恢复机制 | 通过可信联系人进行社交恢复 |
+| 标准 | ERC-4337 账户抽象 |
+| Gas | 由 SuperPaymaster 赞助 |
+| 仓库 | [github.com/aastarcommunity/AirAccount](https://github.com/aastarcommunity/AirAccount) |
+
 ### SuperPaymaster
-[SuperPaymaster](https://github.com/aastarcommunity/SuperPaymaster)
-### SDSS
-[SDSS](https://github.com/aastarcommunity/SDSS)
+去中心化 Gas 赞助 —— 商户买单，用户无感。
+
+| 功能 | 说明 |
+|---|---|
+| 模式 | 商户预存 Gas 预算 |
+| 费率 | Gas 费用的 10% 进入协议国库 |
+| 无许可 | 任何人均可成为 Paymaster 节点 |
+| 仓库 | [github.com/aastarcommunity/SuperPaymaster](https://github.com/aastarcommunity/SuperPaymaster) |
+
+### SDSS（Rain Computing）
+驱动链下 AI 与数据层的去中心化计算和存储网络。
+
+[github.com/aastarcommunity/SDSS](https://github.com/aastarcommunity/SDSS)
+
 ### CometENS
-[CometENS](https://github.com/aastarcommunity/CometENS)
+兼容 ENS 的名称解析服务，适用于 Mycelium 生态系统。
+
+[github.com/aastarcommunity/CometENS](https://github.com/aastarcommunity/CometENS)
+
 ### HexagonWarrior
-[HexagonWarrior](https://github.com/AAStarCommunity/HexagonWarrior-Tauri)
+面向社区建设者和节点运营者的桌面客户端。
 
-## Framework
+[github.com/AAStarCommunity/HexagonWarrior-Tauri](https://github.com/AAStarCommunity/HexagonWarrior-Tauri)
+
+---
+
+## 框架
+
 ### COS72
-[COS72](https://github.com/MushroomDAO/COS72)
-### Arcadia
-[Arcadia Github](https://github.com/CMUBA/ArcadiaV2)
-[Arcadia Website](https://arcadia.cmuba.org/)
-### Doris
-[Doris](https://github.com/MushroomDAO/Doris)
-### ???
-General AI Agent for Community with privacy and security running in VPN.
+DAO 与社区工具框架 —— 在 Mycelium 协议上启动社区的核心骨架。
 
-## Application & Project
+[github.com/MushroomDAO/COS72](https://github.com/MushroomDAO/COS72)
+
+### Arcadia — Play2B2E 忠诚度系统
+游戏化链上积分系统。商户发行积分，用户参与赚取，积分可在网络内交易。
+
+- [Arcadia GitHub](https://github.com/CMUBA/ArcadiaV2)
+- [Arcadia 官网](https://arcadia.cmuba.org/)
+
+### Doris 协议
+创作者经济协议 —— 内容价值流通与归属确权。
+
+[github.com/MushroomDAO/Doris](https://github.com/MushroomDAO/Doris)
+
+---
+
+## 应用与项目
+
 ### Zu.Coffee
-[Zu.Coffee Github](https://github.com/MushroomDAO/zu.coffee)
-[Zu.Coffee Website](https://zu.coffee/)
+诞生于 Zuzalu 的社区实验 —— 在真实咖啡馆验证微循环经济模型。
+
+- [Zu.Coffee GitHub](https://github.com/MushroomDAO/zu.coffee)
+- [Zu.Coffee 官网](https://zu.coffee/)
 
 ### Chiang Mai Connect
-[Chiang Mai Connect](https://github.com/CMUBA/ChiangMaiConnect)
+清迈社区的本地信息发现协议 —— 活动、商户、协作。
 
+[github.com/CMUBA/ChiangMaiConnect](https://github.com/CMUBA/ChiangMaiConnect)
 
+---
 
+## 立即体验
 
+| 资源 | 链接 |
+|---|---|
+| AAStar 社区（基础设施建设者） | [aastar.io](https://aastar.io) |
+| MushroomDAO GitHub | [github.com/MushroomDAO](https://github.com/mushroomdao) |
+| 社区 | [Telegram](https://t.me/aastarcommunity) · [Twitter](https://x.com/aastarcommunity) |
+| 治理论坛 | gov.mushroom.box *(第二阶段上线)* |
