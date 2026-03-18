@@ -3,6 +3,19 @@
 
 > GToken is not an investment. It is a protocol participation credential — your key to shaping the digital public goods commons.
 
+A tribute to Bitcoin: GToken has a fixed total supply of 21 million, forever.
+GToken is the community governance token with two core rights: community governance rights, and community protocol participation and usage rights.
+GToken holders are recognized as protocol members — with corresponding governance rights and access to community protocol products and advanced features.
+PNTs is the community utility token, serving as the base payment unit for all protocol products, following the OpenPNTs protocol.
+
+---
+
+## Token Issuance Goals
+
+- **Establish community ownership:** By distributing GToken, the protocol's ownership and future direction are placed in the hands of users and community contributors.
+- **Achieve self-sustainability:** Establish a community treasury managed by token holders to fund future development, operations, and community incentives — escaping dependence on the founding team.
+- **Protect protocol autonomy and immutability:** Through decentralized governance, ensure the protocol's core features cannot be easily changed by any single entity, making it a truly open and fair digital public infrastructure.
+
 ---
 
 ## Token Overview
