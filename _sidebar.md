@@ -1,19 +1,23 @@
 - **English**
   - [Home](/)
   - [Whitepaper](whitepaper-en.md)
+  - [Cold Launch](cold-launch-en.md)
   - [Roadmap](https://www.mushroom.box/Roadmap.html)
   - [Protocol](protocol-en.md)
   - [Tokenomics](tokenomics-en.md)
   - [DAO](dao-en.md)
   - [Demo & Products](demo-en.md)
   - [Resources](more-en.md)
+  - [Live Kanban ↗](https://www.mushroom.cv/)
 
 - **中文**
   - [主页](README_zh.md)
   - [白皮书](whitepaper-zh.md)
+  - [冷启动](cold-launch-zh.md)
   - [路线图](https://www.mushroom.box/Roadmap.html)
   - [协议](protocol-zh.md)
   - [代币经济学](tokenomics-zh.md)
   - [DAO 组织](dao-zh.md)
   - [Demo & 产品](demo-zh.md)
   - [资源](more-zh.md)
+  - [实时看板 ↗](https://www.mushroom.cv/)

@@ -1,128 +1,156 @@
-# Tokenomics English Version
+# Tokenomics — GToken & PNTs
 [中文版本](tokenomics-zh.md)
 
-Tribute to Bitcoin, the community governance token GToken is issued with only 21 million units, with a fixed total supply.
-GToken is a community governance token that includes two core rights: community governance rights and community protocol participation and usage rights.
-GToken holders are considered protocol members, and according to the protocol, they have the corresponding governance rights and community protocol product participation and advanced feature usage rights.
-mPNTs is a community utility token, as the basic payment unit for users to use all protocol products of the community, following the OpenPNTs protocol, and is the utility token of the protocol.
+> GToken is not an investment. It is a protocol participation credential — your key to shaping the digital public goods commons.
 
-## Token Issuance Goals
-- Establish community ownership: By distributing GToken, the protocol's ownership and future development direction are handed over to users and community contributors.
-- Achieve self-sustainability: Establish a community treasury managed by token holders to provide funding and incentives for the protocol's future development, operations, and community incentives,escaping the dependence on the founding team.
-- Protect the protocol's autonomy and immutability: Through decentralized governance, ensure that the protocol's core features are not easily changed by a single entity, making it a truly open and fair digital future infrastructure.
+---
 
-## Tokenomics
-The total supply of GToken is 21 million, with a 4-year initial unlock period.
-The initial supply of mPNTs is 1 billion, with no unlock period, but is issued based on specific project and protocol needs, with the inflation rate adjusted annually by the governance meeting, thus minted into the treasury, with the first year set at a 2% inflation rate.
+## Token Overview
 
-### GToken
-Total: 21 million
+| Token | Type | Total Supply | Purpose |
+|---|---|---|---|
+| **GToken** | Governance | 21,000,000 (fixed, Bitcoin-inspired) | Protocol governance, role registration, community access |
+| **PNTs** | Utility | 1,000,000,000 initial + 2% annual inflation | In-protocol transactions, loyalty points, service payments |
+| **xPNTs** (e.g. aPNTs) | Community Utility | Each community deploys its own | Community-specific service payments (e.g., Gas sponsorship) |
 
-#### Community
-- 60% (12.6 million) allocated to Mycelium community: This is the largest portion, reflecting its community-first principle.
-- Airdrop: 15% (3.15 million) directly airdropped to all AirAccount wallets that have interacted with the Mycelium protocol before July 4, 2027.
-- Each eligible address can receive a certain amount of GToken for free (the specific amount needs to be determined based on activity and other factors). Not only does it reward early users, but it also creates a large and decentralized base of token holders instantly.
-- Treasury: The remaining 42% (8.82 million) is retained in the community treasury managed by GToken holders, used for future developer recruitment, community plans, and protocol development incentives.
-- Early community members and project incentives: Approximately 3% (0.63 million) is allocated to early community members and project incentives, with a two-year time frame for the incentive, used to encourage early community members and projects to participate in community governance and use community protocol products.
+---
 
+## GToken — Governance Token
 
-#### Community Launching Team
-- 20% (4.2 million) allocated to HyperCapital organization, with a 4-year linear unlock, unlocking 5% annually.
-- As a 'strategic partner' and 'ecosystem builder', HyperCapital provides critical resources and business support for the protocol's cold start and commits to long-term deep involvement in ecosystem building.
-- HyperCapital is the community and protocol's launching team, as well as the long-term interest binding partner, as a core partner, will continue to help the protocol land the business collaboration part.
+### Distribution (80% DAO / 20% Commercial Company)
 
-#### Team
-- 15% (3.15 million) allocated to the development and operation team members and future employees: This portion of the token has a 4-year linear unlock period to ensure the long-term interest binding of the team and the protocol.
+| Category | % | GT Amount | Unlock |
+|---|---|---|---|
+| **Commercial Company** (HyperCapital /唯一商业公司) | 20% | 4,200,000 | 4-year linear, no cliff |
+| **Community Treasury** (governance-controlled) | 38% | 7,980,000 | Governance proposals |
+| → OpenNest new protocol incubation | (20%) | 4,200,000 | Milestone-based release |
+| → 3-year contributor reward pool | (12%) | 2,520,000 | Monthly stream |
+| → Operations reserve | (6%) | 1,260,000 | Governance decision |
+| **Infrastructure mining** (DVT · AI nodes · IPFS) | 14% | 2,940,000 | Earned by contribution, no lock |
+| **Core builders** (AAStar + AuraAI + team) | 12% | 2,520,000 | 4-year linear, 6-month cliff |
+| **Cold start free exchange** (Howey-compliant) | 3% | 630,000 | Immediate, no lock |
+| **Guardian airdrop** (invitation system) | 3% | 630,000 | Level-based, 6-month unlock |
+| **Academic partners** (CMUBA + CMUBRC) | 5% | 1,050,000 | 4-year linear |
+| **Advisors** | 3% | 630,000 | 4-year linear, 1-year cliff |
+| **Ecosystem / partnerships reserve** | 2% | 420,000 | Governance decision |
+| **Total** | **100%** | **21,000,000** | |
 
-#### CMUBA & CMUBRA
-- 3% (0.63 million) allocated to CMUBA & CMUBRA organization, with a 4-year linear unlock, unlocking 0.75% annually.
-- As an 'academic partner' and 'local collaboration partner', CMUBA & CMUBRA organization will bind and collaborate with the protocol to help the protocol land academic and local collaboration parts.
+### Design Rationale
 
-#### Advisors
-- 2% (0.42 million) allocated to advisors: This portion of the token has a 4-year linear unlock period to ensure that the advisors can help the protocol start and develop.
+**80% DAO / 20% Commercial:** The commercial company (唯一商业公司 / loyalty alliance) holds 20% with 4-year vesting. Commercial (20%) + core builders (12%) = 32% — permanently below the 50% governance threshold, preventing centralized capture.
 
-This allocation scheme aims to balance the interests of early contributors, core teams, investors, and the broader community, laying the foundation for the protocol's long-term decentralized governance.
+**Infrastructure mining (14%):** Nodes running DVT validators, community AI compute, and IPFS gateways earn GToken proportional to their verified contribution. This is not a promise — it's a meritocratic reward tracked on-chain.
 
-### mPNTs
-Total: 1 billion, with a 2% inflation rate annually, used for community governance, protocol development, and community incentives.
-The inflation rate is determined annually by the governance meeting of the community protocol, and can be adjusted, including the issuance of specific projects.
+**Cold start free exchange (3%):** Distributed via permissionless on-chain contract. Anyone can acquire by participating in early protocol actions. Passes the Howey Test — free distribution, no investment of money, no profit expectation.
 
-#### Community
-- 95% (9.5 million) allocated to the community treasury: Used for community governance, protocol development, and community incentives.
-- 2% (0.2 million) allocated to the community Uniswap trading pool: Used to initialize the activity mPNTs trading pool.
-- 3% (0.3 million) allocated to the genesis launch: Used to incentivize the mining and use of the genesis launch.
-- The community governance meeting will determine the inflation rate of mPNTs, as well as the unlocking and use of locked mPNTs, with the main uses: mining incentives for the computing network, DEX trading pools, and protocol development (including OpenNest incubated projects).
+**Guardian airdrop (3%):** Four-level invitation tree. No addresses collected. Privacy preserved. Anti-sybil via social proof.
 
-#### Mining
-- For the Infra infrastructure and necessary supporting facilities, the protocol builds a decentralized computing network, provides computing services, and obtains the mining mPNTs revenue.
-- mPNTs is the utility token of the protocol, which can be used to pay for computing service fees, and is also the reward for the basic mining.
-- Based on the overall scale and construction plan of the network, the mining return for early nodes (computing and verifiers) will be doubled as an incentive.
+### Burn Mechanism
 
-## Core Rights of GToken Holders
-The core rights of GToken holders are concentrated on community governance rights, community protocol participation and usage rights.
-mPNTs holders, as the basic unit for paying for community services and service products, are the utility token, following the OpenPNTs protocol.
+Every protocol join and exit burns a configurable amount of GToken. The burn rate is set by community multisig and written into the contract. Combined with the 21M hard cap, this creates natural scarcity without inflation games.
 
-### Governance Rights (Core Rights)
+```
+User joins protocol → X GT burned
+User exits protocol → Y GT burned
+Burn rates configurable by community multisig (proposal + vote)
+```
 
-**Proposal Right**：If a token holder holds or is delegated a certain proportion of the total supply of GToken (initially 1%, the governance meeting can vote to adjust), they have the right to initiate a governance proposal. The proposal can involve any aspect of the protocol, such as modifying fees, supporting new chains, or providing funding for specific projects.
+---
 
-**Voting Right**：Each GToken token represents one vote. Holders can vote on various proposals in the community, collectively deciding the future of the protocol. 1 GToken = 1 vote.
+## GToken Rights
 
-**Delegation Right**：If you don't want to participate in every vote, you can delegate your voting rights to more active and professional representatives in the community (Delegates), who will exercise your voting rights on your behalf. This is a form of liquid democracy.
+GToken has **zero financial return by design**. It grants:
 
-### Community Protocol Participation and Usage Rights
-- **Core Feature Access Right**：
-Many core protocols and DApps in the community ecosystem require users to hold or stake a certain amount of GToken to access their advanced features or specific services. This is both the core utility of GToken holders and a way to support the continuous development of the protocol.
+### 1. Governance Rights (Core)
 
-- **Priority Access to Ecosystem Projects**：
-The Mycelium ecosystem encourages and supports the innovation of independent third-party projects through its OpenNest incubator. Holding GToken is the qualification certificate for early rounds of these independent projects. It is necessary to clarify the following points:
+| Right | Details |
+|---|---|
+| **Proposal** | Hold/delegate ≥1% of supply to submit a MIP (Mycelium Improvement Proposal) |
+| **Vote** | 1 GT = 1 vote. Quadratic voting available for select decisions |
+| **Delegation** | Delegate votes to active community representatives |
+| **Protocol config** | Vote on fee changes, chain support, treasury disbursements |
 
-  - **Not a Commitment**：This priority access is not an investment recommendation or a return commitment. Each independent project has its own participation standards and risks.
+**Governance process:**
+1. **Temperature Check** — Governance forum, ~10,000 GT informal vote
+2. **Consensus Check** — Forum, ~30,000 GT required
+3. **On-chain Proposal** — ≥210,000 GT to submit; 7-day voting; 4% quorum (840,000 GT); >50% to pass
+4. **Timelock** — 2-day delay before execution (safety window)
 
-  - **Risk Fully Borne**：When users voluntarily participate, they need to use mPNTs or other designated tokens and make independent decisions and bear all risks.
+### 2. Protocol Access Rights
 
-  - **Responsibility Independent**：Mycelium DAO is completely independent of the operation of these third-party projects and does not bear any responsibility for their performance or any possible losses.
+| Right | Details |
+|---|---|
+| **Mint SBT** | Hold GToken to mint your cross-community Reputation SBT |
+| **Register community** | Deploy community on Mycelium, run your own Paymaster |
+| **Run SuperPaymaster** | Operate gas sponsorship nodes for your community |
+| **Task Plaza** | Create and complete bounties |
+| **Protocol launch** | Launch your own sub-protocol within the ecosystem |
+| **Ecosystem priority** | Early access to OpenNest-incubated projects |
 
+> **Disclaimer:** Priority access to OpenNest projects is not an investment recommendation. Each project is independent. Risks are borne individually. MushroomDAO bears no responsibility for third-party project performance.
 
+---
+
+## PNTs — Utility Token
+
+PNTs is the protocol-level utility token and the foundational loyalty points layer.
+
+| Parameter | Value |
+|---|---|
+| Initial supply | 1,000,000,000 |
+| Annual inflation | 2% (adjustable by governance annually) |
+| Use | In-protocol service payments · loyalty points · DEX liquidity |
+
+### Distribution
+
+| Category | % | Amount |
+|---|---|---|
+| Community treasury | 95% | 950,000,000 |
+| Uniswap liquidity pool initialization | 2% | 20,000,000 |
+| Genesis launch incentives | 3% | 30,000,000 |
+
+Governance controls inflation rate and treasury release. Main uses: compute network mining rewards, DEX liquidity pools, OpenNest project incentives.
+
+### PNTs as the Loyalty Points Layer
+
+PNTs underpins the commercial loyalty coalition model (analogous to airline miles):
+- Single issuer (protocol) → merchants are redemption agents
+- Cross-merchant redemption is B2B settlement, not consumer payment
+- Users experience invisible Web3: scan QR → earn/redeem points → no gas, no seed phrase
+
+---
+
+## xPNTs — Community Utility Tokens
+
+Any community can deploy their own xPNTs instance via the `xPNTsFactory` contract.
+
+**Example: aPNTs (AAStar community)**
+- Backed by SuperPaymaster gas sponsorship capacity
+- Price: $0.018–$0.030 / aPNTs (admin-adjustable within range)
+- No tiers, no caps, permissionless
+- Operators stake aPNTs to provide gasless transactions to users
+
+---
+
+## GToken Sale (Cold Launch)
+
+**Starting price:** $0.15 / GT
+**Price increase:** +12% per phase (triggered by revenue milestone, not token quantity)
+**Payment:** USDC, USDT, WETH (Chainlink price feeds for non-stablecoin)
+**Sales pool:** 680,000 GT pre-allocated (covers all 4 phases + 5% buffer)
+
+See [Cold Launch](cold-launch-en.md) for the full tier structure and transparency commitment.
+
+---
 
 ## Community Governance
 
-Governance is a rigorous on-chain process designed to ensure transparency, security, and community-driven decision-making. A typical proposal process is as follows:
+See [DAO](dao-en.md) for the full governance structure.
 
-### Phase 1: Temperature Check
+GToken is the mechanism by which the Mycelium Protocol transforms from infrastructure into a **sovereign, self-driven decentralized commons** — owned by those who build and use it.
 
-Purpose: To initially gauge the community's interest in a particular idea or proposal.
+---
 
-Platform: Usually conducted on the Mycelium governance forum (gov.mushroom.box).
-
-Requirements: The initiator posts a thread, explains the idea, and creates an informal vote. Usually, a small number of (e.g., 10,000 GToken) votes are required to proceed to the next phase.
-
-### Phase 2: Consensus Check
-
-Purpose: To concretize the initial idea into a formal proposal and test whether the community can reach a broad consensus on it.
-
-Platform: Governance forum.
-
-Requirements: The initiator needs to post more detailed proposal content and obtain more (e.g., 30,000 GToken) votes. This phase involves more in-depth discussion and detail revisions.
-
-### Phase 3: On-Chain Proposal
-
-Purpose: To enter the formal, legally binding on-chain voting process.
-
-Platform: On-chain voting contract.
-
-Requirements: The proposer must hold or be delegated at least 210,000 GToken (this threshold may be adjusted through governance) to submit a proposal. The proposal content is executable code.
-
-Voting: All GToken holders (or their delegated representatives) can vote within a fixed time window (usually 7 days).
-
-Quorum: To make the voting results valid, at least 4% (840,000 GToken) of the tokens must participate in voting and vote in favor.
-
-### Execution
-
-If the proposal is passed (more than 50% of the votes in favor, and the quorum is met), it will not be executed immediately.
-
-The proposal will enter a **Timelock** contract, usually with a 2-day waiting period. This waiting period is a security mechanism that allows users to react in time if a malicious proposal is passed (e.g., withdrawing funds).
-
-After the waiting period, anyone can call the execution function to deploy the code in the proposal to the Mycelium protocol contract, completing the upgrade or change.
-
-In summary, GToken is the core of Mycelium's transformation from a simple infrastructure tool to a sovereign, self-driven decentralized economic entity. It successfully transfers the future of the protocol to the community that cares most about its development through its clever issuance mechanism and rigorous governance process.
+*License: GNU GPL v3*
+*GToken contract (Sepolia): `0x9ceDeC089921652D050819ca5BE53765fc05aa9E`*
+*Airdrop target date: July 4, 2027*
