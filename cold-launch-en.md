@@ -34,11 +34,11 @@ Every phase represents a verifiable increase in protocol value. When a phase goa
 | ~~Phase 1~~ | **Voice Established** | ✅ Done | Website, docs, SDK beta, GitHub, Telegram |
 | Phase 2 | **Powered by Love** | $1,200 | 1-year basic operations · <100 users · $50–100/mo costs |
 | Phase 3 | **CMUBRC Research** | $8,000 | 1 year of organized humanities + tech research · 2+ papers published |
-| Phase 4 | **Protocol Community** | $33,600 | 12-month Mycelium community · 3 part-time contributors · $800/mo |
+| Phase 4 | **Protocol Community** | $36,600 | 12-month Mycelium community · 3 part-time contributors · $800/mo (includes $3,000 one-time tooling cost) |
 | Phase 5 | **AAStar Infrastructure** | $86,400 | 1.5 years · 2 part-time builders · continuous Roadmap delivery |
 | Phase 6+ | **DApp Ecosystem** | Open | Any organization launches their own protocol using the infrastructure |
 
-**Cumulative total (Phases 2–5):** ~$129,200 USD · covered by 644,176 GT at ~3.1% of total supply
+**Cumulative total (Phases 2–5):** ~$135,800 USD · covered by 644,176 GT at ~3.1% of total supply
 
 ---
 
@@ -54,7 +54,7 @@ GToken starts cheap — it is a protocol participation voucher, not an investmen
 |---|---|---|---|---|
 | Tier 1 | Powered by Love | $1,200 | $0.1500 | $12 (~80 GT) |
 | Tier 2 | CMUBRC Research | $8,000 | $0.1680 | $80 (~476 GT) |
-| Tier 3 | Protocol Community | $33,600 | $0.1882 | $336 (~1,786 GT) |
+| Tier 3 | Protocol Community | $36,600 | $0.1882 | $336 (~1,786 GT) |
 | Tier 4 | AAStar Infra | $86,400 | $0.2107 | $864 (~4,100 GT) |
 | Tier 5+ | Ecosystem | Admin-set | +12%/tier | 1% rule |
 
@@ -152,7 +152,7 @@ Cost (USD)
     ↑
 86,400 │                                  ● Phase 5 (AAStar Infra)
        │
-33,600 │                   ●               Phase 4 (Community)
+36,600 │                   ●               Phase 4 (Community)
        │
  8,000 │         ●                         Phase 3 (Research)
        │
