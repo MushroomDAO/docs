@@ -58,15 +58,26 @@ PNTs is the community utility token, serving as the base payment unit for all pr
 
 **Guardian airdrop (3%):** Four-level invitation tree. No addresses collected. Privacy preserved. Anti-sybil via social proof.
 
-### Burn Mechanism
+### Ticket Mechanism (Burn → Return to Treasury)
 
-Every protocol join and exit burns a configurable amount of GToken. The burn rate is set by community multisig and written into the contract. Combined with the 21M hard cap, this creates natural scarcity without inflation games.
+GToken = protocol ticket. Joining the protocol burns GToken (returned to Treasury). Membership is lifetime. There is no exit mechanism.
 
+**Mental model:** A park admission ticket. Buy ticket → validate (burn) → enter → lifetime access. The ticket is torn — you are now a protocol member. Parks don't do refunds.
+
+**Ticket prices (initial values, adjustable by governance):**
+| Scenario | Burn Amount | Description |
+|----------|-----------|-------------|
+| Individual join | ~0.3 GT | Personal lifetime ticket |
+| Community join | ~30 GT | Group ticket, community protocol access |
+| Special operations | Priced per scenario | Register SuperPaymaster, launch sub-protocol, etc. |
+
+**Economic cycle (not deflationary):**
 ```
-User joins protocol → X GT burned
-User exits protocol → Y GT burned
-Burn rates configurable by community multisig (proposal + vote)
+User buys GToken → burn (returns to Treasury, not destroyed) → Treasury distributes to node operators
+→ Nodes participate in ecosystem → GT flows back to market → new users buy → cycle
 ```
+
+Total supply of 21,000,000 GT is forever constant. Burn does not mean disappear — it means return to Treasury. GT circulates between containers: personal wallets ↔ community wallets ↔ Treasury ↔ node reward pool.
 
 ---
 
