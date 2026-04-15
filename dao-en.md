@@ -121,7 +121,7 @@ This is intentional: the protocol should outlive any single organization, the wa
 | Arcadia v2 | Live at arcadia.cmuba.org |
 | Zu.Coffee | Live at zu.coffee |
 | COS72 framework | In development |
-| GToken | Not yet issued — airdrop target: July 4, 2027 |
+| GToken | Available through the Cold Launch sale. Guardian airdrop target: July 4, 2027 |
 | Protocol Vault | Initialized, not yet funded by protocol revenue |
 | OpenNest incubation | Phase 1 — 3-10 merchant micro-loop in progress |
 

@@ -1,11 +1,12 @@
 # Tokenomics — GToken & PNTs
 [中文版本](tokenomics-zh.md)
 
-> GToken is not an investment. It is a protocol participation credential — your key to shaping the digital public goods commons.
+> GToken is not an investment. It is not a speculative instrument. It is the protocol's **entry credential** and **governance credential** — your key to accessing digital public goods and shaping the digital future.
 
 A tribute to Bitcoin: GToken has a fixed total supply of 21 million, forever.
-GToken is the community governance token with two core rights: community governance rights, and community protocol participation and usage rights.
+GToken carries two core rights: **entry credential** (your ticket to join the protocol) and **governance credential** (your vote in protocol governance).
 GToken holders are recognized as protocol members — with corresponding governance rights and access to community protocol products and advanced features.
+You don't have to buy GToken — you can earn it by contributing code, running nodes, or serving the community. GToken is a tool for achieving digital welfare, not a tool for making money.
 PNTs is the community utility token, serving as the base payment unit for all protocol products, following the OpenPNTs protocol.
 
 ---

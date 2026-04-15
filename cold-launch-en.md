@@ -38,7 +38,7 @@ Every phase represents a verifiable increase in protocol value. When a phase goa
 | Phase 5 | **AAStar Infrastructure** | $86,400 | 1.5 years · 2 part-time builders · continuous Roadmap delivery |
 | Phase 6+ | **DApp Ecosystem** | Open | Any organization launches their own protocol using the infrastructure |
 
-**Cumulative total (Phases 2–5):** ~$135,800 USD · covered by 644,176 GT at ~3.1% of total supply
+**Cumulative total (Phases 2–5):** ~$135,800 USD · covered by 647,000 GT at ~3.08% of total supply
 
 ---
 
