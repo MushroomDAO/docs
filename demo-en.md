@@ -28,11 +28,11 @@ Time: ~3 seconds
 ```
 
 ### Step 3 — Points minted automatically
-The Mycelium Protocol mints community points (mPNTs) to the user's AirAccount.
+The Mycelium Protocol mints community points (aPNTs) to the user's AirAccount.
 Points can be redeemed at any merchant in the coalition network — no lock-in, no expiry.
 
 ```
-User: Receives 85 mPNTs → Balance visible in app
+User: Receives 85 aPNTs → Balance visible in app
 Merchant: Sees settled transaction → Points liability logged
 ```
 

@@ -28,11 +28,11 @@ Gas：由 SuperPaymaster 赞助（向商户收取 10% 协议费）
 ```
 
 ### 第三步 — 自动铸造积分
-Mycelium 协议自动向用户的 AirAccount 铸造社区积分（mPNTs）。
+Mycelium 协议自动向用户的 AirAccount 铸造社区积分（aPNTs）。
 积分可在联盟网络内任意商户兑换，无锁定期，无过期日。
 
 ```
-用户：收到 85 mPNTs → 余额在应用中可见
+用户：收到 85 aPNTs → 余额在应用中可见
 商户：看到结算交易 → 积分负债记录上链
 ```
 
